@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RabbitMqTester": {
+      "commandName": "Project",
+      "commandLineArgs": "writer"
+    }
+  }
+}

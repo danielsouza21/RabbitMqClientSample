@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "WtEZ+cn6p15SRqXWeXHVfUK9AOU5ACbghh/6UAATrq/3VrdppdJRpiC096/Fflcm0zGUYkznBB2oSRyfKlt/XA==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\Others\\RabbitMqTester\\RabbitMqTester\\RabbitMqTester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.souza1\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.souza1\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\daniel.souza1\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus-prd/repository/nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
